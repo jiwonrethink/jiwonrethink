@@ -13,6 +13,4 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&duration=1&pause=100000000000&color=5398FE&vCenter=true&repeat=false&width=100&height=40&lines=INFO)](https://git.io/typing-svg)<br><a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiwonrethink&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a><a href="s">
-  <br><img src="https://github-readme-stats.vercel.app/api?username=jiwonrethink&theme=tokyonight&show_icons=true" width="47%" />
 </a>
